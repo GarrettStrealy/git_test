@@ -1,0 +1,1 @@
+This is GarrettStrealy's first git project!
